@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\bin\Debug\net8.0\oop-assignment-2-A-2024-74491.exe
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\bin\Debug\net8.0\oop-assignment-2-A-2024-74491.deps.json
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\bin\Debug\net8.0\oop-assignment-2-A-2024-74491.runtimeconfig.json
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\bin\Debug\net8.0\oop-assignment-2-A-2024-74491.dll
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\bin\Debug\net8.0\oop-assignment-2-A-2024-74491.pdb
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.AssemblyInfo.cs
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.dll
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\refint\oop-assignment-2-A-2024-74491.dll
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.pdb
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\oop-assignment-2-A-2024-74491.genruntimeconfig.cache
+C:\Users\victo\source\repos\oop-assignment-2-A-2024-74491\obj\Debug\net8.0\ref\oop-assignment-2-A-2024-74491.dll
